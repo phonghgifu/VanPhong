@@ -1,0 +1,6 @@
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\2212440_NVPhong.csproj.AssemblyReference.cache
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\2212440_NVPhong.csproj.SuggestedBindingRedirects.cache
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\_2212440_NVPhong.Form1.resources
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\_2212440_NVPhong.Properties.Resources.resources
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\2212440_NVPhong.csproj.GenerateResource.cache
+C:\Users\phong\source\repos\2212440_NVPhong\2212440_NVPhong\obj\Debug\2212440_NVPhong.csproj.CoreCompileInputs.cache
